@@ -314,6 +314,35 @@
       </tags>
   </entry>
   <entry>
+    <title>小米手环4 设置自定义壁纸教程</title>
+    <url>/posts/4a3d913b.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="小米手环4-设置自定义壁纸教程"><a href="#小米手环4-设置自定义壁纸教程" class="headerlink" title="小米手环4 设置自定义壁纸教程"></a>小米手环4 设置自定义壁纸教程</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>离线同步 被替换了的表盘bin文件，实现自定义报表的设置。</p>
+<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><ul>
+<li>米环4自定义表盘.apk</li>
+<li>小米运动.apk</li>
+<li>Android 文件传输工具</li>
+<li>MacBook</li>
+</ul>
+<h2 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h2><ol>
+<li>用手机连接手环4，并在<code>表盘商城</code>中 下载一款官方的手环主题，以 <code>遨游太空</code> 壁纸为例，对应壁纸在手机的路径如下：<ul>
+<li>表盘存储位置路径：<code>Android/data/com.xiaomi.hm.health/files/watch_skin_local/</code>AVOBRGR4h4OpaZ5y1EDCIj8VSGpAqUYsGqVKLfr5``</li>
+</ul>
+</li>
+<li>从<code>米环4自定义表盘</code>上下载自己中意的主题表盘，或自己定义一个，并更名为：<code>AVOBRGR4h4OpaZ5y1EDCIj8VSGpAqUYsGqVKLfr5.bin</code></li>
+<li>使用下载下来的表盘bin文件替换第一步中下载的表盘bin文件，</li>
+<li>手机断网情况下，再次同步第一步中下载的表盘。</li>
+<li>DONE</li>
+</ol>
+]]></content>
+      <categories>
+        <category>外设</category>
+      </categories>
+      <tags>
+        <tag>外设</tag>
+        <tag>主题美化</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>主题设置笔记</title>
     <url>/posts/2242015193.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="主题设置笔记"><a href="#主题设置笔记" class="headerlink" title="主题设置笔记"></a>主题设置笔记</h2><h4 id="aplayer"><a href="#aplayer" class="headerlink" title="aplayer"></a>aplayer</h4><table>
@@ -472,35 +501,6 @@ nlp操作2->慧智操作3
       </categories>
       <tags>
         <tag>Butterfly</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小米手环4 设置自定义壁纸教程</title>
-    <url>/posts/4a3d913b.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="小米手环4-设置自定义壁纸教程"><a href="#小米手环4-设置自定义壁纸教程" class="headerlink" title="小米手环4 设置自定义壁纸教程"></a>小米手环4 设置自定义壁纸教程</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>离线同步 被替换了的表盘bin文件，实现自定义报表的设置。</p>
-<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><ul>
-<li>米环4自定义表盘.apk</li>
-<li>小米运动.apk</li>
-<li>Android 文件传输工具</li>
-<li>MacBook</li>
-</ul>
-<h2 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h2><ol>
-<li>用手机连接手环4，并在<code>表盘商城</code>中 下载一款官方的手环主题，以 <code>遨游太空</code> 壁纸为例，对应壁纸在手机的路径如下：<ul>
-<li>表盘存储位置路径：<code>Android/data/com.xiaomi.hm.health/files/watch_skin_local/</code>AVOBRGR4h4OpaZ5y1EDCIj8VSGpAqUYsGqVKLfr5``</li>
-</ul>
-</li>
-<li>从<code>米环4自定义表盘</code>上下载自己中意的主题表盘，或自己定义一个，并更名为：<code>AVOBRGR4h4OpaZ5y1EDCIj8VSGpAqUYsGqVKLfr5.bin</code></li>
-<li>使用下载下来的表盘bin文件替换第一步中下载的表盘bin文件，</li>
-<li>手机断网情况下，再次同步第一步中下载的表盘。</li>
-<li>DONE</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Database</category>
-      </categories>
-      <tags>
-        <tag>外设</tag>
-        <tag>主题美化</tag>
       </tags>
   </entry>
   <entry>
